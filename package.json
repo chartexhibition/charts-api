@@ -1,0 +1,10 @@
+{
+  "name": "charts-api",
+  "version": "0.0.1",
+  "description": "REST HTTP API for chartexhibition.com",
+  "author": "Christopher Reyes",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
